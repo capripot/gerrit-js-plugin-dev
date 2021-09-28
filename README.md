@@ -51,4 +51,4 @@ Then, reload your page to load the new version.
 - Docker images: https://hub.docker.com/r/gerritcodereview/gerrit/tags
 - Docker image repo: https://github.com/GerritCodeReview/docker-gerrit
 - Doc: https://gerrit.test/Documentation/ or https://gerrit-review.googlesource.com/Documentation/
-- JS API doc: https://gerrit.test/Documentation/Documentation/js-api.html
+- JS API doc: https://gerrit.test/Documentation/js-api.html
